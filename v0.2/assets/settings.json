@@ -1,0 +1,11 @@
+{
+    "monitor1": true,
+    "monitor2": true,
+    "brightness1": true,
+    "brightness2": true,
+    "contrast1": true,
+    "contrast2": true,
+    "sleep_polling_freq": "1",
+    "awake_polling_freq": "6",
+    "awake_timeout": "3"
+}
